@@ -1,0 +1,20 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one.js",
+  "scripts": {
+    "start": "json-server --watch one.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnanautiyal/js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnanautiyal/js/issues"
+  },
+  "homepage": "https://github.com/krishnanautiyal/js#readme"
+}
